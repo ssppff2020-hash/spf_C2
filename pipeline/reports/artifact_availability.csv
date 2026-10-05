@@ -1,0 +1,31 @@
+﻿key,role,arxiv,has_artifact,signals,note
+polu2020gptf,paradigm_F,2009.03393,False,,
+han2022pact,paradigm_F,2102.06203,False,,
+wu2022autoformalization,paradigm_F,2205.12615,False,,
+jiang2023dsp,paradigm_F,2210.12283,False,,
+yang2023leandojo,paradigm_F,2306.15626,True,open_source:open-source,
+xin2024deepseekprover,paradigm_F,2405.14333,False,,
+trinh2024alphageometry,paradigm_F,,,,非 arXiv 条目，未纳入本次测量
+romera2024funsearch,paradigm_F,,,,非 arXiv 条目，未纳入本次测量
+demoura2021lean4,infrastructure,,,,非 arXiv 条目，未纳入本次测量
+cobbe2021gsm8k,paradigm_V,2110.14168,False,,
+lightman2024verify,paradigm_V,2305.20050,False,,
+huang2024selfcorrect,paradigm_V,2310.01798,False,,
+stechly2024selfverification,paradigm_V,2402.08115,False,,
+kambhampati2024llmmodulo,paradigm_V,2402.01817,False,,
+valmeekam2023planning,paradigm_V,2206.10498,False,,
+gao2023pal,paradigm_F,2211.10435,True,our_code:Our code,
+chen2023pot,paradigm_F,2211.12588,False,,
+schick2023toolformer,paradigm_F,2302.04761,False,,
+hendrycks2021math,paradigm_R,2103.03874,False,,
+yue2024mammoth,paradigm_F,2309.05653,True,open_source:open-source,
+zhou2023cheater,paradigm_R,2311.01964,False,,
+sainz2023contamination,paradigm_R,2310.18018,False,,
+white2024livebench,paradigm_R,2406.19314,True,open_source:open-source,
+rein2023gpqa,paradigm_R,2311.12022,False,,
+wang2023scientific,background,,,,非 arXiv 条目，未纳入本次测量
+lu2024aiscientist,background,2408.06292,True,open_source:open-sourced | our_code:Our code,
+welleck2022naturalprover,paradigm_F,2205.12910,False,,
+lin2025goedelprover,paradigm_F,2502.07640,True,open_source:open-source | our_code:our code,
+ren2025deepseekproverv2,paradigm_F,2504.21801,True,open_source:open-source,
+chen2026lectures,material,2604.11504,False,,
