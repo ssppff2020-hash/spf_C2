@@ -1,0 +1,14 @@
+# C2 结构化课程定义（由 freeze-course-content.mjs 生成，v1.0 冻结）
+id: C2
+title: "AI for Math 论文"
+difficulty: 进阶
+brief: "围绕 AI4Math 可靠性框架撰写可投稿 LaTeX 学术论文，完成 AI 辅助学术研究闭环。"
+objective:
+  - "完成选题→文献→框架→写作→LaTeX 排版的研究闭环"
+  - "学会 AI 辅助文献综述与批判性阅读"
+  - "掌握 LaTeX 学术论文规范"
+  - "形成对 AI 结论可信度的判断框架"
+deliverables_pattern: "paper.tex,references.bib,*AI日志*,*AAR*"
+deadline: 2026-12-31T23:59
+platform_challenge_id: ch-20260717031343-8ot0ji
+source_md: CHALLENGE.md
